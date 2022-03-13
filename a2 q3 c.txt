@@ -1,0 +1,14 @@
+package AssignmentQ3;
+
+public class c {
+	public static void main(String[] args) {
+		
+		Account account=new
+				SavingsAccount("aravind", "7474474", 30444, 3, 1000);
+	
+		
+		Account account2=new 
+			CurrentAccount("sekar", "5766776", 700000, "AB1234", 60000);
+		
+	}
+}

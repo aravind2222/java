@@ -1,0 +1,8 @@
+package Assignment2Q2;  
+public class bookapps {
+	public static void main(String[] args) {
+		BookStore bookStore=new BookStore("javas", 5);
+		bookStore.sell("spring in action", 2);
+		bookStore.display();
+	}
+}
